@@ -45,6 +45,6 @@ https://$container_ip/segment-image/
 6. Add a key-value pair:
 
     - Key: file
-    - Value: Select the file option to upload your image file.
+    - Value: Select the file option to upload your image file. You can use images in resources folder.
 
 7. Select the "Send" button to initiate the request. Please be patient, as the processing time may vary based on your CPU performance.
